@@ -1,6 +1,6 @@
 # Particles Ui
 
-![Internet not working gif](https://abuzar-061.github.io/Particle-Using-Js/ParticleJs.png)
+![screenshot](ParticlesJs.png)
 
 # Particle Animation 🎇
 
