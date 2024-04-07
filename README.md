@@ -19,6 +19,10 @@ Feel free to customize the particle animation according to your preferences. You
 - Particle animation powered by [particles.js](https://github.com/VincentGarreau/particles.js/)
 - Initial concept and design by Muhammad Abuzar
 
+## Demo
+
+- [Particles.com](https://abuzar-061.github.io/Particles-Using-JS/ParticlesJs.html)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
